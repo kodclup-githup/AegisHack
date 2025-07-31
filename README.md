@@ -102,7 +102,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
 
 # 3. Projeyi klonlayın
-git clone https://github.com/kodclup/AegisHack.git
+git clone https://github.com/kodclup-githup/AegisHack.git
 
 # 4. Proje dizinine girin
 cd AegisHack
@@ -123,7 +123,7 @@ python3 AegisCrack.py
 # 3. Git'i kurun (git-scm.com) veya GitHub Desktop kullanın
 
 # 4. Projeyi klonlayın
-git clone https://github.com/kodclup/AegisHack.git
+git clone https://github.com/kodclup-githup/AegisHack.git
 
 # 5. Proje dizinine girin
 cd AegisHack
